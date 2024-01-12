@@ -1,0 +1,15 @@
+/* MainPage.css - Add this CSS to your global styles or component-specific styles */
+
+.header-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.main-content {
+  padding: 16px;
+}
+
+.about-card,
+.contact-card {
+  margin-bottom: 16px;
+}
