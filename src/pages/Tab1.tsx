@@ -55,7 +55,7 @@ function MainPage() {
           </IonCardContent>
         </IonCard>
 
-        <IonCard className="contact-card"  routerLink="/contact">
+        <IonCard className="contact-card"  routerLink="#/contact">
           <IonCardHeader>
             <IonCardTitle>Contact Us</IonCardTitle>
           </IonCardHeader>
